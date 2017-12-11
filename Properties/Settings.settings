@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfExcelLPAIADE_V2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WpfExcelLPAIADE_V2_pt_iade_elpusonline_WebSapi" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://elpusonline.iade.pt/websapi/websapi.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
